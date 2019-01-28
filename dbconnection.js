@@ -4,7 +4,7 @@ var mysql=require('mysql');
 host:'localhost',
  user:'root',
  password:'Napoli.01',
- database:'doggyapi',
+ database:'db_doggy_chapitas',
  port:3306
 
 });
